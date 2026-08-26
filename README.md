@@ -48,27 +48,39 @@ I enjoy working across the stack — from designing user interfaces and building
 
 ## 🎯 What I'm Currently Learning
 
-```text
-💻 Full-Stack Development
-├── Frontend Architecture
-├── Backend Development
-├── REST APIs
-├── Database Design
-└── Deployment
+<table align="center">
+<tr>
+<td valign="top" width="33%">
 
-🔐 Cybersecurity
-├── Linux & Networking
-├── Web Application Security
-├── OWASP Concepts
-├── Ethical Hacking
-└── Security Fundamentals
+### 💻 Full-Stack Dev
+![](https://img.shields.io/badge/-Frontend%20Architecture-6C63FF?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/-Backend%20Development-6C63FF?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/-REST%20APIs-6C63FF?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/-Database%20Design-6C63FF?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/-Deployment-6C63FF?style=flat-square&logoColor=white)
 
-🛠️ Developer Tools
-├── Git & GitHub
-├── Linux
-├── VS Code
-└── Development Workflows
-```
+</td>
+<td valign="top" width="33%">
+
+### 🔐 Cybersecurity
+![](https://img.shields.io/badge/-Linux%20%26%20Networking-E63946?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/-Web%20App%20Security-E63946?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/-OWASP%20Concepts-E63946?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/-Ethical%20Hacking-E63946?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/-Security%20Fundamentals-E63946?style=flat-square&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🛠️ Developer Tools
+![](https://img.shields.io/badge/-Git%20%26%20GitHub-2EA043?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/-Linux-2EA043?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/-VS%20Code-2EA043?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/-Dev%20Workflows-2EA043?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
