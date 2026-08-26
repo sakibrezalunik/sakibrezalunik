@@ -1,20 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1f0d&height=200&section=header&text=root%40sakibrezalunik%3A~%23&fontSize=36&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=%3E%20Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Gamer_&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Sakib%20Reza%20Lunik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Gamer&descAlignY=55&descSize=18"/>
 
 <p align="center">
   <a href="https://github.com/sakibrezalunik">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+build.sh+--break+--secure+--repeat;%3E+status%3A+full-stack+web+developer;%3E+status%3A+exploring+cybersecurity+%26+ethical+hacking;%3E+status%3A+gaming+content+creator+%40+lunikverse" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Build.+Break.+Secure.+Repeat.;Full-Stack+Web+Developer;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Gaming+Content+Creator+%40+Lunikverse" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/sakibrezalunik">
-    <img src="https://komarev.com/ghpvc/?username=sakibrezalunik&label=PROFILE_VIEWS&color=000000&style=for-the-badge&labelColor=00FF41" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=sakibrezalunik&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="https://github.com/sakibrezalunik?tab=followers">
-    <img src="https://img.shields.io/github/followers/sakibrezalunik?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=00FF41&logo=github&logoColor=00FF41" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/sakibrezalunik?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
   </a>
   <a href="mailto:sakibrezalunick@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT__ME-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=00FF41" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
