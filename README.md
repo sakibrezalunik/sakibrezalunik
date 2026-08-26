@@ -124,8 +124,8 @@ I enjoy working across the stack — from designing user interfaces and building
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibrezalunik&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibrezalunik&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-ashy-eta-60.vercel.app/api?username=sakibrezalunik&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&count_private=true" height="180"/>
+  <img src="https://github-readme-stats-ashy-eta-60.vercel.app/api/top-langs/?username=sakibrezalunik&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
 </p>
 
 ## 🔥 Contribution Streak
@@ -160,19 +160,19 @@ I enjoy working across the stack — from designing user interfaces and building
 
 <p align="center">
   <a href="https://github.com/sakibrezalunik/YOUR_PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-ashy-eta-60.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/sakibrezalunik/YOUR_PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-ashy-eta-60.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/sakibrezalunik/YOUR_PROJECT_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-ashy-eta-60.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/sakibrezalunik/YOUR_PROJECT_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-ashy-eta-60.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
