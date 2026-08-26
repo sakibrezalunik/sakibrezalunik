@@ -137,7 +137,7 @@ I enjoy working across the stack — from designing user interfaces and building
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibrezalunik&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph-eight-alpha.vercel.app/graph?username=sakibrezalunik&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
 </p>
 
 ## 🐍 Contribution Snake
