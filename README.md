@@ -1,16 +1,25 @@
-<h1 align="center">Hi 👋, I'm Sakib Reza Lunik</h1>
-
-<h3 align="center">
-💻 Full-Stack Developer &nbsp;|&nbsp; 🔐 Cybersecurity Enthusiast &nbsp;|&nbsp; 🎮 Gaming Content Creator
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Sakib%20Reza%20Lunik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Gamer&descAlignY=55&descSize=18"/>
 
 <p align="center">
   <a href="https://github.com/sakibrezalunik">
-    <img src="https://komarev.com/ghpvc/?username=sakibrezalunik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Build.+Break.+Secure.+Repeat.;Full-Stack+Web+Developer;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Gaming+Content+Creator+%40+Lunikverse" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sakibrezalunik">
+    <img src="https://komarev.com/ghpvc/?username=sakibrezalunik&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="https://github.com/sakibrezalunik?tab=followers">
-    <img src="https://img.shields.io/github/followers/sakibrezalunik?label=Followers&style=flat" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/sakibrezalunik?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
   </a>
+  <a href="mailto:sakibrezalunick@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
 
 ---
@@ -21,15 +30,19 @@ I'm a **Computer Science & Engineering graduate** with a strong interest in buil
 
 I enjoy working across the stack — from designing user interfaces and building APIs to working with databases, Linux environments, and security concepts.
 
-* 💻 Focused on **Full-Stack Web Development**
-* 🔐 Exploring **Cybersecurity & Ethical Hacking**
-* 🐧 Learning and working with **Linux**
-* 🌐 Interested in **Web Security & Application Security**
-* 🚀 Building projects to improve my development skills
-* 🎮 Gaming enthusiast & content creator
-* 📚 Always learning something new
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif">
+
+- 💻 Focused on **Full-Stack Web Development**
+- 🔐 Exploring **Cybersecurity & Ethical Hacking**
+- 🐧 Learning and working with **Linux**
+- 🌐 Interested in **Web Security & Application Security**
+- 🚀 Building projects to improve my development skills
+- 🎮 Gaming enthusiast & content creator
+- 📚 Always learning something new
 
 > **Build. Break. Secure. Repeat.**
+
+<br clear="right"/>
 
 ---
 
@@ -64,72 +77,56 @@ I enjoy working across the stack — from designing user interfaces and building
 ### 💻 Languages
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,php" />
 </p>
 
 ### 🌐 Frontend
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45" alt="Next.js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
 ### ⚙️ Backend & Frameworks
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45" alt="Django"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" alt="Spring"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,spring" />
 </p>
 
 ### 🗄️ Databases
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="Microsoft SQL Server"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,mssql,oracle" />
 </p>
 
 ### 🔐 Cybersecurity & Systems
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=linux,git,bash,vscode" />
 </p>
 
 **Currently exploring:**
-`Linux` • `Networking` • `Web Security` • `OWASP` • `Ethical Hacking` • `Application Security`
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0e75b6?style=flat-square)
+![Web Security](https://img.shields.io/badge/Web%20Security-red?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-black?style=flat-square)
+![AppSec](https://img.shields.io/badge/Application%20Security-purple?style=flat-square)
 
 ### 🎨 Other Tools
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="45" height="45" alt="Blender"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-3.svg" width="45" height="45" alt="Adobe Illustrator"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45" height="45" alt="Selenium"/>
+<img src="https://skillicons.dev/icons?i=blender,ai,selenium" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibrezalunik&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakibrezalunik&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibrezalunik&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
 </p>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -137,23 +134,19 @@ I enjoy working across the stack — from designing user interfaces and building
   <img src="https://streak-stats.demolab.com?user=sakibrezalunik&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibrezalunik&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
 </p>
 
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sakibrezalunik/sakibrezalunik/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/sakibrezalunik/sakibrezalunik/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
----
+> 💡 The snake animation needs a one-time GitHub Actions workflow set up in your profile repo — see the note at the bottom of this file.
 
 ## 🏆 GitHub Achievements
 
@@ -163,62 +156,46 @@ I enjoy working across the stack — from designing user interfaces and building
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/sakibrezalunik">
+  <a href="https://github.com/sakibrezalunik/YOUR_PROJECT_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
   </a>
-
-  <a href="https://github.com/sakibrezalunik">
+  <a href="https://github.com/sakibrezalunik/YOUR_PROJECT_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sakibrezalunik">
+  <a href="https://github.com/sakibrezalunik/YOUR_PROJECT_3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
   </a>
-
-  <a href="https://github.com/sakibrezalunik">
+  <a href="https://github.com/sakibrezalunik/YOUR_PROJECT_4">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
-> 💡 Replace `YOUR_PROJECT_1`, `YOUR_PROJECT_2`, etc. with your actual repository names.
+> 💡 Replace `YOUR_PROJECT_1`, `YOUR_PROJECT_2`, etc. with your actual repository names (and the links above with the real repo URLs).
 
----
+## 📌 Repository Highlights
 
-# 📌 Repository Highlights
-
-| Project            | Description                    | Technologies              |
-| ------------------ | ------------------------------ | ------------------------- |
-| 🚀 **Project 01**  | Full-stack web application     | React • Node.js • MongoDB |
-| 🔐 **Project 02**  | Security-focused project       | Python • Linux            |
-| 🌐 **Project 03**  | Modern web application         | Next.js • TypeScript      |
-| 🛠️ **Project 04** | Developer / automation project | Python • Selenium         |
+| Project | Description | Technologies |
+|---|---|---|
+| 🚀 **Project 01** | Full-stack web application | React • Node.js • MongoDB |
+| 🔐 **Project 02** | Security-focused project | Python • Linux |
+| 🌐 **Project 03** | Modern web application | Next.js • TypeScript |
+| 🛠️ **Project 04** | Developer / automation project | Python • Selenium |
 
 > Replace these with your real projects once you decide which repositories you want recruiters to see first.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sakibrezalunik&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibrezalunik&theme=tokyonight" />
-
-</p>
-
----
-
 ## 🌟 GitHub Profile Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibrezalunik&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibrezalunik&theme=tokyonight" />
@@ -232,54 +209,47 @@ I enjoy working across the stack — from designing user interfaces and building
 
 ---
 
-# 🎮 Beyond Coding
+## 🎮 Beyond Coding
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif">
 
 When I'm not building software, I enjoy **gaming and creating gaming content**.
 
-🎮 Gaming
-🎬 Video Editing
-📸 Photography
-🎨 Graphic Design
-📺 Gaming Content Creation
+- 🎮 Gaming
+- 🎬 Video Editing
+- 📸 Photography
+- 🎨 Graphic Design
+- 📺 Gaming Content Creation
 
 You can find my gaming content on **Lunikverse**.
 
+<br clear="right"/>
+
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.facebook.com/sakibreza.lunik/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" alt="Facebook"/>
-</a>
-
-<a href="https://www.instagram.com/lunik047/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram"/>
-</a>
-
-<a href="https://www.youtube.com/@lunikverse">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="40" alt="YouTube"/>
-</a>
-
-<a href="mailto:sakibrezalunick@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40" height="40" alt="Email"/>
-</a>
-
+  <a href="https://www.facebook.com/sakibreza.lunik/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/lunik047/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@lunikverse">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:sakibrezalunick@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💬 Developer Quote
-
 <p align="center">
-  <i>"The best way to learn is to build, break, fix, and build again."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=%22The+best+way+to+learn+is+to+build%2C+break%2C+fix%2C+and+build+again.%22" alt="Quote"/>
 </p>
-
----
 
 <h3 align="center">⚡ Thanks for visiting my profile!</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"/>
