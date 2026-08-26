@@ -1,285 +1,294 @@
-<h1 align="center">Hi 👋, I'm Sakib Reza Lunik</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Full-Stack Developer &nbsp;|&nbsp; 🔐 Cybersecurity Enthusiast &nbsp;|&nbsp; 🎮 Gaming Content Creator
-</h3>
+# 👋 Hi, I'm Sakib Reza Lunik
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Linux+Explorer;Web+Security+Learner;Gaming+Content+Creator" alt="Typing Animation" />
+
+<p>
   <a href="https://github.com/sakibrezalunik">
-    <img src="https://komarev.com/ghpvc/?username=sakibrezalunik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=sakibrezalunik&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="https://github.com/sakibrezalunik?tab=followers">
-    <img src="https://img.shields.io/github/followers/sakibrezalunik?label=Followers&style=flat" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/sakibrezalunik?label=Followers&style=for-the-badge&color=00f7ff" alt="Followers"/>
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Computer Science & Engineering graduate** with a strong interest in building modern web applications and exploring cybersecurity.
-
-I enjoy working across the stack — from designing user interfaces and building APIs to working with databases, Linux environments, and security concepts.
-
-* 💻 Focused on **Full-Stack Web Development**
-* 🔐 Exploring **Cybersecurity & Ethical Hacking**
-* 🐧 Learning and working with **Linux**
-* 🌐 Interested in **Web Security & Application Security**
-* 🚀 Building projects to improve my development skills
-* 🎮 Gaming enthusiast & content creator
-* 📚 Always learning something new
-
-> **Build. Break. Secure. Repeat.**
+</div>
 
 ---
 
-## 🎯 What I'm Currently Learning
+## 🧑‍💻 About Me
 
 ```text
-💻 Full-Stack Development
-├── Frontend Architecture
-├── Backend Development
-├── REST APIs
-├── Database Design
-└── Deployment
+┌──(sakib㉿lunik)-[~]
+└─$ whoami
 
-🔐 Cybersecurity
-├── Linux & Networking
-├── Web Application Security
-├── OWASP Concepts
-├── Ethical Hacking
-└── Security Fundamentals
+Sakib Reza Lunik
 
-🛠️ Developer Tools
-├── Git & GitHub
-├── Linux
-├── VS Code
-└── Development Workflows
+┌──(sakib㉿lunik)-[~]
+└─$ cat about.txt
+
+💻 Full-Stack Developer
+🔐 Cybersecurity Enthusiast
+🐧 Linux Explorer
+🌐 Web Security Learner
+🎮 Gaming Content Creator
+🚀 Always Learning & Building
 ```
+
+I'm a **Computer Science & Engineering graduate** interested in building modern web applications and exploring cybersecurity.
+
+My main focus is **Full-Stack Development**, while I'm gradually expanding into **Linux, networking, web security, and cybersecurity**.
+
+> ⚡ **Build → Break → Learn → Secure → Repeat**
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🧠 Current Focus
+
+<div align="center">
+
+|  💻 Development |   🔐 Cybersecurity   | 🐧 Systems |
+| :-------------: | :------------------: | :--------: |
+| Full-Stack Apps |     Web Security     |    Linux   |
+|    REST APIs    |         OWASP        | Networking |
+| React / Next.js |    Ethical Hacking   |     CLI    |
+|     Node.js     | Application Security |     Git    |
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python,php" />
+
 </p>
 
 ### 🌐 Frontend
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45" alt="Next.js"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+
 </p>
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45" alt="Django"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" alt="Spring"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,spring" />
+
 </p>
 
 ### 🗄️ Databases
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="Microsoft SQL Server"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+
 </p>
 
-### 🔐 Cybersecurity & Systems
+### 🔐 Security & Systems
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
+
 </p>
 
-**Currently exploring:**
-`Linux` • `Networking` • `Web Security` • `OWASP` • `Ethical Hacking` • `Application Security`
+---
 
-### 🎨 Other Tools
+# ⚡ Developer Mode
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="45" height="45" alt="Blender"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-3.svg" width="45" height="45" alt="Adobe Illustrator"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45" height="45" alt="Selenium"/>
-</p>
+```text
+╔══════════════════════════════════════════════════╗
+║                 SAKIB REZA LUNIK                 ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  💻 Full-Stack Development       █████████░ 90%  ║
+║  🌐 Web Technologies             █████████░ 90%  ║
+║  🗄️ Database Development         ████████░░ 80%  ║
+║  🐧 Linux                        ██████░░░░ 60%  ║
+║  🔐 Cybersecurity                █████░░░░░ 50%  ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+> These percentages represent current learning/focus areas, not formal proficiency ratings.
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibrezalunik&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibrezalunik&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sakibrezalunik&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibrezalunik&layout=compact&hide_border=true&theme=tokyonight" />
+
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakibrezalunik&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=sakibrezalunik&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibrezalunik&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+# 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sakibrezalunik/sakibrezalunik/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibrezalunik&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+
+</div>
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakibrezalunik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sakibrezalunik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sakibrezalunik/sakibrezalunik/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/sakibrezalunik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
-  </a>
+<div align="center">
 
-  <a href="https://github.com/sakibrezalunik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<a href="https://github.com/sakibrezalunik/YOUR_PROJECT_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/sakibrezalunik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
-  </a>
+<a href="https://github.com/sakibrezalunik/YOUR_PROJECT_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+</a>
 
-  <a href="https://github.com/sakibrezalunik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+</div>
 
-> 💡 Replace `YOUR_PROJECT_1`, `YOUR_PROJECT_2`, etc. with your actual repository names.
+<div align="center">
 
----
+<a href="https://github.com/sakibrezalunik/YOUR_PROJECT_3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
+</a>
 
-# 📌 Repository Highlights
+<a href="https://github.com/sakibrezalunik/YOUR_PROJECT_4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibrezalunik&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" />
+</a>
 
-| Project            | Description                    | Technologies              |
-| ------------------ | ------------------------------ | ------------------------- |
-| 🚀 **Project 01**  | Full-stack web application     | React • Node.js • MongoDB |
-| 🔐 **Project 02**  | Security-focused project       | Python • Linux            |
-| 🌐 **Project 03**  | Modern web application         | Next.js • TypeScript      |
-| 🛠️ **Project 04** | Developer / automation project | Python • Selenium         |
-
-> Replace these with your real projects once you decide which repositories you want recruiters to see first.
+</div>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 Detailed GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakibrezalunik&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibrezalunik&theme=tokyonight" width="95%" />
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakibrezalunik&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibrezalunik&theme=tokyonight" width="45%" />
 
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibrezalunik&theme=tokyonight" width="45%" />
 
----
-
-## 🌟 GitHub Profile Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakibrezalunik&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakibrezalunik&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakibrezalunik&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakibrezalunik&theme=tokyonight&utcOffset=6" />
-</p>
-
----
-
-# 🎮 Beyond Coding
-
-When I'm not building software, I enjoy **gaming and creating gaming content**.
-
-🎮 Gaming
-🎬 Video Editing
-📸 Photography
-🎨 Graphic Design
-📺 Gaming Content Creation
-
-You can find my gaming content on **Lunikverse**.
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+
+<a href="mailto:sakibrezalunick@gmail.com">
+<img src="https://img.shields.io/badge/Email-sakibrezalunick%40gmail.com-00f7ff?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <a href="https://www.facebook.com/sakibreza.lunik/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" alt="Facebook"/>
+<img src="https://img.shields.io/badge/Facebook-Sakib%20Reza%20Lunik-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/lunik047/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-@lunik047-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.youtube.com/@lunikverse">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="40" alt="YouTube"/>
+<img src="https://img.shields.io/badge/YouTube-Lunikverse-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<a href="mailto:sakibrezalunick@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40" height="40" alt="Email"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-## 💬 Developer Quote
+# 🎮 Beyond Code
 
-<p align="center">
-  <i>"The best way to learn is to build, break, fix, and build again."</i>
-</p>
+<div align="center">
+
+🎮 Gaming   •   🎬 Content Creation   •   📸 Photography   •   🎨 Graphic Design
+
+</div>
+
+I also create gaming content through **Lunikverse**, combining gaming, video editing, and visual storytelling.
 
 ---
 
-<h3 align="center">⚡ Thanks for visiting my profile!</h3>
+# 💭 Developer Mindset
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"/>
-</p>
+<div align="center">
+
+```text
+        ┌─────────────────────────────┐
+        │        KEEP BUILDING        │
+        ├─────────────────────────────┤
+        │                             │
+        │       Learn something        │
+        │             ↓               │
+        │          Build it            │
+        │             ↓               │
+        │          Break it            │
+        │             ↓               │
+        │          Fix it              │
+        │             ↓               │
+        │        Understand it         │
+        │             ↓               │
+        │        Build better          │
+        │                             │
+        └─────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,50:0077FF,100:0D1117" width="100%" />
+
+</div>
