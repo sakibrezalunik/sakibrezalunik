@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sakibrezalunik">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Build.+Break.+Secure.+Repeat.;Full-Stack+Web+Developer;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Gaming+Content+Creator+%40+Lunikverse" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=750&lines=Build.+Break.+Secure.+Repeat.;Full-Stack+Web+Developer;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Gaming+Content+Creator+%40+Lunikverse" alt="Typing SVG" />
   </a>
 </p>
 
@@ -253,7 +253,7 @@ You can find my gaming content on **Lunikverse**.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=%22The+best+way+to+learn+is+to+build%2C+break%2C+fix%2C+and+build+again.%22" alt="Quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=%22The+best+way+to+learn+is+to+build%2C+break%2C+fix%2C+and+build+again.%22" alt="Quote"/>
 </p>
 
 <h3 align="center">⚡ Thanks for visiting my profile!</h3>
