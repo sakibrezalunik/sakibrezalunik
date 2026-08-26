@@ -148,12 +148,6 @@ I enjoy working across the stack — from designing user interfaces and building
 
 > 💡 The snake animation needs a one-time GitHub Actions workflow set up in your profile repo — see the note at the bottom of this file.
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakibrezalunik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ## 🚀 Featured Projects
